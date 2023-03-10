@@ -1,1 +1,1 @@
-# databricks_image
+# Databricks Image
