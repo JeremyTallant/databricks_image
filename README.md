@@ -1,1 +1,1 @@
-# Databricks Devicon
+# Databricks Icon
